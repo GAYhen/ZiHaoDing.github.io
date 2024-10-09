@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,7 +15,7 @@
                 href="https://gayhen.github.io/ZiHaoDing.github.io/"
                 />
   </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/about/</loc>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/about-myself/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,8 +25,24 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/about/"
+                href="https://gayhen.github.io/ZiHaoDing.github.io/about-myself/"
                 />
+  </url><url>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gayhen.github.io/ZiHaoDing.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gayhen.github.io/ZiHaoDing.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/multi-agent-reinforcement-learning/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
@@ -41,52 +57,17 @@
                 href="https://gayhen.github.io/ZiHaoDing.github.io/page/"
                 />
   </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/paper/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/post/"
-                />
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/p/research-on-production-quality-inspection-and-cost-optimization-decision-making-model-based-on-multi-agent-joint-reinforcement-learning/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -98,48 +79,13 @@
                 href="https://gayhen.github.io/ZiHaoDing.github.io/tags/"
                 />
   </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/zh-cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gayhen.github.io/ZiHaoDing.github.io/categories/test/"
-                />
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gayhen.github.io/ZiHaoDing.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/links/</loc>
   </url><url>
     <loc>https://gayhen.github.io/ZiHaoDing.github.io/search/</loc>
+  </url><url>
+    <loc>https://gayhen.github.io/ZiHaoDing.github.io/categories/test/</loc>
   </url>
 </urlset>

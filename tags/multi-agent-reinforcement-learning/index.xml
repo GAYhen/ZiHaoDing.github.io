@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Multi-Agent Reinforcement Learning on ZiHaoDing&#39;s Blog</title>
+        <link>https://gayhen.github.io/ZiHaoDing.github.io/tags/multi-agent-reinforcement-learning/</link>
+        <description>Recent content in Multi-Agent Reinforcement Learning on ZiHaoDing&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gayhen.github.io/ZiHaoDing.github.io/tags/multi-agent-reinforcement-learning/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Research on Production Quality Inspection and Cost Optimization Decision-Making Model Based on Multi-Agent Joint Reinforcement Learning</title>
+        <link>https://gayhen.github.io/ZiHaoDing.github.io/p/research-on-production-quality-inspection-and-cost-optimization-decision-making-model-based-on-multi-agent-joint-reinforcement-learning/</link>
+        <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://gayhen.github.io/ZiHaoDing.github.io/p/research-on-production-quality-inspection-and-cost-optimization-decision-making-model-based-on-multi-agent-joint-reinforcement-learning/</guid>
+        <description>&lt;img src="https://gayhen.github.io/ZiHaoDing.github.io/p/research-on-production-quality-inspection-and-cost-optimization-decision-making-model-based-on-multi-agent-joint-reinforcement-learning/1.jpg" alt="Featured image of post Research on Production Quality Inspection and Cost Optimization Decision-Making Model Based on Multi-Agent Joint Reinforcement Learning" /&gt;&lt;h1 id=&#34;abstract&#34;&gt;Abstract
+&lt;/h1&gt;&lt;p&gt;This paper focuses on improving quality control and cost optimization in modern manufacturing using reinforcement learning. The study constructs optimization models that minimize defect rates, inspection costs, and rework losses to enhance overall production efficiency.&lt;/p&gt;
+&lt;h1 id=&#34;key-problems&#34;&gt;Key Problems
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem 1: Sampling Inspection&lt;/strong&gt;&lt;br&gt;
+The paper designs three sampling inspection plans (proportion hypothesis test, binomial test, chi-square test) and chooses the best based on minimum sample size. The optimal solution uses the proportion hypothesis test at 90% and 95% confidence intervals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem 2: Conservative vs Aggressive Strategy&lt;/strong&gt;&lt;br&gt;
+Two baseline strategies (most conservative and most aggressive) are introduced, each compared with the final optimal results. The production process is modeled using 7 states and 5 actions. A SARSA-MDP model is developed to optimize decision-making by defining value functions and rewards, ultimately solving for the optimal strategy to maximize profits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem 3: Multi-Agent Optimization&lt;/strong&gt;&lt;br&gt;
+For multi-component and multi-process scenarios, a Multi-SARSA-MDP model is designed. This model handles multiple agents and hierarchical decision-making, tracking the transition from components to semi-finished goods to finished products.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem 4: Defect Rate Fluctuation Analysis&lt;/strong&gt;&lt;br&gt;
+A two-stage sampling method is used to estimate new defect rates. Simulations explore the effect of varying defect rates on decision strategies, revealing significant strategy shifts when defect rates fluctuate beyond small margins.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h1&gt;&lt;p&gt;The paper demonstrates that SARSA-MDP and Multi-SARSA-MDP models effectively optimize production decisions, reducing costs and increasing profitability. Recommendations for companies include prioritizing high-quality suppliers, minimizing sunk costs, and focusing on defect rate control.&lt;/p&gt;
+&lt;h1 id=&#34;keywords&#34;&gt;Keywords
+&lt;/h1&gt;&lt;p&gt;Reinforcement Learning, SARSA Algorithm, Quality Control, Cost Optimization, Production Management, Multi-Agent Systems.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

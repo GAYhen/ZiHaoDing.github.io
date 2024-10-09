@@ -8,19 +8,25 @@
         <language>en</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://gayhen.github.io/ZiHaoDing.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About</title>
-        <link>https://gayhen.github.io/ZiHaoDing.github.io/about/</link>
+        <title>About Myself</title>
+        <link>https://gayhen.github.io/ZiHaoDing.github.io/about-myself/</link>
         <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://gayhen.github.io/ZiHaoDing.github.io/about/</guid>
-        <description>&lt;p&gt;MCM/ICM Honorable Mention Award in 2024&lt;br&gt;
-Siemens Cup China Intelligent Manufacturing Challenge – National First Prize, 2024&lt;br&gt;
-National College Student Market Research and Analysis Competition – National Third Prize, 2024&lt;br&gt;
-National College Student Intelligent Vehicle Competition (Hovercraft Group), Anhui Division – Provincial First Prize, 2024&lt;br&gt;
-National College Student Intelligent Vehicle Competition (Electromagnetic Group), Anhui Division – Provincial First Prize, 2023&lt;br&gt;
-National College Student Mathematical Modeling Competition, Anhui Division – Provincial Second Prize, 2023&lt;br&gt;
-A Hovercraft for Intelligent Vehicle Competitions – Utility Model Patent, Patent Number/Application Number: 2024203583519, 2024&lt;br&gt;
-Multifunctional Serial Port Assistant Software – Software Copyright, Registration Number: 2024SR0589206, 2024&lt;/p&gt;
+        <guid>https://gayhen.github.io/ZiHaoDing.github.io/about-myself/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;MCM/ICM Honorable Mention Award in 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Siemens Cup China Intelligent Manufacturing Challenge – National First Prize, 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;National College Student Market Research and Analysis Competition – National Third Prize, 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;National College Student Intelligent Vehicle Competition (Hovercraft Group), Anhui Division – Provincial First Prize, 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;National College Student Intelligent Vehicle Competition (Electromagnetic Group), Anhui Division – Provincial First Prize, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;National College Student Mathematical Modeling Competition, Anhui Division – Provincial Second Prize, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;A Hovercraft for Intelligent Vehicle Competitions – Utility Model Patent, Patent Number/Application Number: 2024203583519, 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Multifunctional Serial Port Assistant Software – Software Copyright, Registration Number: 2024SR0589206, 2024&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Siemens Cup China Intelligent Manufacturing Challenge, National Preliminary Competition – National Third Prize, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;National College Student Intelligent Vehicle Competition (Smart Logistics Group), Anhui Division – Provincial Third Prize, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Asia and Pacific Mathematical Contest in Modeling – National Third Prize, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Anhui Normal University Second-Class Scholarship – University Level, 2022&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Anhui Normal University Third-Class Scholarship – University Level, 2023&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Anhui Normal University Second-Class Scholarship – University Level, 2024&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
 Hugo makes use of a variety of open source projects including:
